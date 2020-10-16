@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="generate_button">Generuj</string>
+    <string name="textView">Generator sucharów</string>
+</resources>
